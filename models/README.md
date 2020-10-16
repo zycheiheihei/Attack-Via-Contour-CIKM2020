@@ -1,0 +1,7 @@
+# Models
+In this project, we use 3 models, Faster RCNN, Mask RCNN and Yolov4. The link to these models are as follows.
+|    Model    |                                                                     Download                                                                      |                                                       Config                                                       |
+| :---------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
+| Faster RCNN | [model](http://download.openmmlab.com/mmdetection/v2.0/faster_rcnn/faster_rcnn_r50_fpn_1x_coco/faster_rcnn_r50_fpn_1x_coco_20200130-047c8118.pth) | [config](https://github.com/open-mmlab/mmdetection/blob/master/configs/faster_rcnn/faster_rcnn_r50_fpn_1x_coco.py) |
+|  Mask RCNN  |    [model](http://download.openmmlab.com/mmdetection/v2.0/mask_rcnn/mask_rcnn_r50_fpn_1x_coco/mask_rcnn_r50_fpn_1x_coco_20200205-d4b0c5d6.pth)    |   [config](https://github.com/open-mmlab/mmdetection/blob/master/configs/mask_rcnn/mask_rcnn_r50_fpn_1x_coco.py)   |
+|   Yolov4    |                                        [model](https://cloud.tsinghua.edu.cn/f/d3674a9f0b6846d6a63d/?dl=1)                                        |                        [config](https://cloud.tsinghua.edu.cn/f/7bfa4bc486d641f5a1a1/?dl=1)                        |

@@ -1,0 +1,2 @@
+# Images
+The organizor of the competition has sampled 1000 images from MSCOCO2017 and resized them into $500\times500$. You can download the images from [here](https://cloud.tsinghua.edu.cn/f/7f1c44d651cc47668a3d/?dl=1)
